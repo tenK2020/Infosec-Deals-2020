@@ -61,7 +61,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Hitmanpro.com | BOG2 | 11/23 | [link](https://shop.hitmanpro.com/747/uurl-bvzhur942h) |
 | Heimdalsecurity.com | 75% off Thor | 11/25 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
 | Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/25 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
-| Tenable.io | 50% off Pro w/ code `takehalf` | 11/26 | [link](https://www.tenable.com/buy)
+| Tenable.io | 30% off Pro w/ code `Nessus30` | 12/24 | [link](https://www.tenable.com/buy)
 | Binaryedge.io | N/A | 11/23 | N/A |
 | 1password.com | N/A | 11/23 | N/A |
 | Bitwarden.com | N/A | 11/23 | N/A |
